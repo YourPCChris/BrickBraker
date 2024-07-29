@@ -1,0 +1,14 @@
+Brick Braker game 
+
+Classic Brick Braker game seen on alot of old phons,
+aim of the game is to get rid of all the bricks by bouncing it off you slider
+
+
+Done in C++
+
+
+	**Controls**
+
+Left -> 'Left_Arrow'
+right -> 'Right_Arrow'
+
